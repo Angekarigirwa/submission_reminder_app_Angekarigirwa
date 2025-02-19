@@ -1,3 +1,4 @@
+Submission Reminder Application
 Overview
 
 This is a simple shell-based application that reminds of overdue submission of assignments.

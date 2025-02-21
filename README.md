@@ -87,5 +87,4 @@ chmod +x app/reminder.sh modules/functions.sh startup.sh
 The script will only verify assignments that match the specified ASSIGNMENT in config.env.
 
 Author
-
 Karigirwa
